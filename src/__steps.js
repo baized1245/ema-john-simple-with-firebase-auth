@@ -7,4 +7,12 @@
 * 6.creat sign up and login route
 */ 
 
- 
+
+// context api
+/*
+* 1.creat a context provider file
+* 2.creat a context and set provider
+* 3.set the children props
+* 4.set context value
+* 5.set the provider
+*/  
