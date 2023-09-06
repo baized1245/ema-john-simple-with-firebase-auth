@@ -15,4 +15,10 @@
 * 3.set the children props
 * 4.set context value
 * 5.set the provider
-*/  
+*/ 
+
+// Hosting react app in firebase
+/*
+* 1.One time per pc
+* 2.npm install -g firebase-tools
+*/ 
